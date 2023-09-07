@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kamrul Islam Shantow</h1>
-<h3 align="center">A passionate MERN stack developer from Bangladesh</h3>
+<h3 align="center">A passionate programmer from Bangladesh</h3>
 
 <p align="left"> <a href="https://twitter.com/kamrul_cr7" target="blank"><img src="https://img.shields.io/twitter/follow/kamrul_cr7?logo=twitter&style=for-the-badge" alt="kamrul_cr7" /></a> </p>
 
